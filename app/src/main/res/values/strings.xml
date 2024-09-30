@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ebert</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Criando Apps</string>
+    <string name="second_fragment_label">Para Android</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Voltar</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum
+    </string>
+</resources>
